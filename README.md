@@ -1,3 +1,5 @@
+This is a learning/follow along project to get familiarized with the tools and technologies involved in making a complete e-commerce app.
+
 <!--- STARTEXCLUDE --->
 ## 🔥 Building an E-commerce Website 🔥
 
